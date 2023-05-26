@@ -1,0 +1,3 @@
+TR35 Talha Yilmam 21 Izmir 01.06.2020 0 NULL
+TR42 Ahmet Albayrak 24 Konya 13.06.2022 1 X
+TR26 Beyza Uygur 23 Eskisehir 01.06.2020 0 NULL
