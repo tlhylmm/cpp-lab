@@ -1,0 +1,14 @@
+13 22
+xxxx           xxxxx  
+xxxx           xxxxx  
+xxxx           xxxxx  
+               xxxxx  
+         x     xxxxx  
+        xxx           
+       xxxxx          
+      xxxxxxx         
+                xx    
+xxx xxx xxxx xxxx     
+  xxx xxx  xxx        
+    xxx xxx  xxx      
+                      

@@ -1,0 +1,5 @@
+Both of these list types has a dynamic size which means it can expand or shrink.
+In an array list, stored elements are in a continuous address order, stored 
+contigiously in dynamic memory, but linked list stores the elements randomly 
+and non-contigiously.
+
